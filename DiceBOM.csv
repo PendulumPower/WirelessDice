@@ -1,0 +1,20 @@
+Reference,Qty,Value,MF Part Number,Exclude from BOM,Exclude from Board,Footprint,Product Link,EXT_Price
+AE1,6,Antenna_Chip,2450AT07A0100001T,,,Capacitor_SMD:C_0402_1005Metric,https://www.digikey.com/en/products/detail/johanson-technology-inc/2450AT07A0100001T/4770686,$3.42
+BT1,1,Battery_Cell,S2B-EH,,,Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal,https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-EH/926533,$0.11
+C3,6,0.22F,CBS5R5224VF-ZJ,,,Partholimew:V_Supercapactior,https://www.digikey.com/en/products/detail/cda-zhifengwei-technology/CBS5R5224VF-ZJ/22461685?s=N4IgTCBcDaIMICEDKBWASisYAsA1AYgLQBaAUiALoC%2BQA,$15.36
+"C4,C6,C8,C11",24,100 nF,C0402C102F1GEC,,,Capacitor_SMD:C_0402_1005Metric,https://www.digikey.com/en/products/detail/kemet/C0402C102F1GEC/8642944,$12.70
+C5,6,1 nF,C0402C102K1GECAUTO,,,Capacitor_SMD:C_0402_1005Metric,https://www.digikey.com/en/products/detail/kemet/C0402C102K1GECAUTO/8563696,$1.20
+C7,6,1.0 µF,CC0402MRX5R6BB105,,,Capacitor_SMD:C_0402_1005Metric,https://www.digikey.com/en/products/detail/yageo/CC0402MRX5R6BB105/5195141,$0.96
+"C9,C10",12,12 pF,CC0402FRNPO9BN120,,,Capacitor_SMD:C_0402_1005Metric,https://www.digikey.com/en/products/detail/yageo/CC0402FRNPO9BN120/5195050,$0.80
+C12,6,0.8 pF,QSCF500Q0R8B1GV001T,,,Capacitor_SMD:C_0402_1005Metric,https://www.digikey.com/en/products/detail/johanson-technology-inc/QSCF500Q0R8B1GV001T/1561519,$1.38
+C13,6,1.2 pF,QSCF500Q1R2B1GV001T,,,Capacitor_SMD:C_0402_1005Metric,https://www.digikey.com.au/en/products/detail/johanson-technology-inc/QSCF500Q1R2B1GV001T/1561523?srsltid=AfmBOorqYBE8jLqeB4xs7zFaSt9l92Y61sGOfWzWt68SB-ECNDt6Fc8a,$1.50
+D1,6,D_Schottky,ZHCS350QTA,,,Diode_SMD:D_SOD-523,https://www.digikey.com/en/products/detail/diodes-incorporated/ZHCS350QTA/16548932,$4.62
+"J2,J4,J5,J6,J8,J9,J10",7,Conn_01x02_Pin,816-22-002-10-005101,,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/816-22-002-10-005101/6149715?gclsrc=aw.ds&gad_source=1&gad_campaignid=20470400566&gbraid=0AAAAADrbLlhnU3m_zEh8W9A1TAocWx6aY&gclid=Cj0KCQjwk5nVBhDiARIsAHNGqacAMn0UIE9_uygN1ia0mNAtSDT1cr3yeQ3GwP7nfWxaonjn3JVUrqQaAqlYEALw_wcB,$18.96
+L1,6,3.9 nH,LRC0402CS3N9GV001T,,,Inductor_SMD:L_0402_1005Metric,https://www.digikey.com/en/products/detail/johanson-technology-inc/LRC0402CS3N9GV001T/1915227,$0.60
+R3,6,100 Ω,RCA0402100RFKEDHP,,,Resistor_SMD:R_0402_1005Metric,https://www.digikey.com/en/products/detail/vishay-dale/RCA0402100RFKEDHP/6561236,$1.20
+"R4,R5",12,4.7 kΩ,RE0402FRE074K7L,,,Resistor_SMD:R_0402_1005Metric,https://www.digikey.com/en/products/detail/yageo/RE0402FRE074K7L/5923067,$0.41
+SW1,1,SW_Push_SPDT,PCM12SMTR,,,Button_Switch_SMD:SW_SPDT_PCM12,https://www.digikey.com/en/products/detail/c-k/PCM12SMTR/1640112,$1.28
+U4,1,XIAO-ESP32-S3-Plus-SMD,113991114,,,Seeed_Studio_XIAO_Series:XIAO-ESP32-S3-Plus-SMD,https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/113991114/19285530,$7.49
+Y1,6,Crystal_GND24,ECS-2016MV-240-BN-TR,,,Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm,https://www.digikey.com/en/products/detail/ecs-inc/ECS-2016MV-240-BN-TR/9385254,$10.26
+U3,6,BMA400,BMA400,,,BMA400,https://www.digikey.com/en/products/detail/bosch-sensortec/BMA400/8634935,$13.22
+U2,6,NRF52832-QFAA-R,NRF52832-QFAA-R,,,NRF52832-QFAA-R,https://www.digikey.com/en/products/detail/nordic-semiconductor-asa/NRF52832-QFAA-R/5428659,$28.86
