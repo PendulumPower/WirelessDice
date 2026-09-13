@@ -14,6 +14,6 @@ PCB Back:
 Hub Case:
 <img width="1220" height="843" alt="image" src="Images/Case.png" />
 Costs: <a href="https://www.amazon.com/hz/wishlist/ls/28VBMUP4FWW5W?ref_=wl_share">Amazon List</a><br>
--PCB+Stencil - $15
--Battery+Magnets+Display - $40
--Digikey parts+shipping+tariff (in BOM) - $150
+-PCB+Stencil - $15<br>
+-Battery+Magnets+Display - $40<br>
+-Digikey parts+shipping+tariff (in BOM) - $150<br>
