@@ -1,0 +1,172 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "3c389d20-01fe-4543-b836-2ad874c1150d")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 91.44 68.58) (xy 105.41 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 1 9 1)
+		)
+		(uuid "a7e1e8ef-a32d-4f8a-87f9-91b44a0ad24a")
+	)
+	(wire
+		(pts
+			(xy 91.44 71.12) (xy 105.41 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "ff2f42b4-3de0-44cd-a076-b718f3c48ea0")
+	)
+	(sheet
+		(at 105.41 64.77)
+		(size 38.1 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 74 255 210 1)
+		)
+		(uuid "a628807e-ceaf-4c18-bbc3-f376b5cc2740")
+		(property "Sheetname" "Dice"
+			(at 105.41 64.0584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Dice.kicad_sch"
+			(at 105.41 94.5646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DOCK+" input
+			(at 105.41 68.58 180)
+			(uuid "e264f668-9a0d-403d-a502-e087944f0972")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DOCK-" input
+			(at 105.41 71.12 180)
+			(uuid "d0fe8177-135e-4879-b2bf-7cd48169b5e3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "WirelessDice"
+				(path "/3c389d20-01fe-4543-b836-2ad874c1150d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 62.23 66.04)
+		(size 29.21 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 255 9 3 1)
+		)
+		(uuid "ba9b454a-1bcb-4f85-bc31-4feed2fc6d24")
+		(property "Sheetname" "Dock"
+			(at 62.23 65.3284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Dock.kicad_sch"
+			(at 62.23 84.4046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DCK+" input
+			(at 91.44 68.58 0)
+			(uuid "a5e5fbf7-5e99-44d2-85d1-45570fd99a8a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 255 255 255 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "DCK-" input
+			(at 91.44 71.12 0)
+			(uuid "5ffbeab5-6e20-4daa-880c-86f71cb335c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 255 255 255 1)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "WirelessDice"
+				(path "/3c389d20-01fe-4543-b836-2ad874c1150d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
