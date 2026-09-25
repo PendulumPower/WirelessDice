@@ -1,4 +1,4 @@
-Reference,Qty,Value,MF Part Number,Exclude from BOM,Exclude from Board,Footprint,Product Link,EXT_Price
+Reference,Qty,Value,MF Part Number,Exclude from BOM,Exclude from Board,Footprint,Product Link,EXT_Price_USD
 AE1,6,Antenna_Chip,2450AT07A0100001T,,,Capacitor_SMD:C_0402_1005Metric,https://www.digikey.com/en/products/detail/johanson-technology-inc/2450AT07A0100001T/4770686,$3.42
 BT1,1,Battery_Cell,S2B-EH,,,Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal,https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-EH/926533,$0.11
 C3,6,0.22F,CBS5R5224VF-ZJ,,,Partholimew:V_Supercapactior,https://www.digikey.com/en/products/detail/cda-zhifengwei-technology/CBS5R5224VF-ZJ/22461685?s=N4IgTCBcDaIMICEDKBWASisYAsA1AYgLQBaAUiALoC%2BQA,$15.36
@@ -18,3 +18,7 @@ U4,1,XIAO-ESP32-S3-Plus-SMD,113991114,,,Seeed_Studio_XIAO_Series:XIAO-ESP32-S3-P
 Y1,6,Crystal_GND24,ECS-2016MV-240-BN-TR,,,Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm,https://www.digikey.com/en/products/detail/ecs-inc/ECS-2016MV-240-BN-TR/9385254,$10.26
 U3,6,BMA400,BMA400,,,BMA400,https://www.digikey.com/en/products/detail/bosch-sensortec/BMA400/8634935,$13.22
 U2,6,NRF52832-QFAA-R,NRF52832-QFAA-R,,,NRF52832-QFAA-R,https://www.digikey.com/en/products/detail/nordic-semiconductor-asa/NRF52832-QFAA-R/5428659,$28.86
+3000 mAh Battery,1,,,,,https://www.amazon.com/dp/B0DTHGXTNT/?coliid=I3AVXAGAYZTM3P&colid=28VBMUP4FWW5W&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it,$12.99
+2-inch LCD,1,,,,,https://www.amazon.com/dp/B0GL1SWYP4/?coliid=I2KOR03UWRZK4E&colid=28VBMUP4FWW5W&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it,$15.99
+Pack of 3x2 mm magnets,1,,,,,https://www.amazon.com/dp/B0GY2DLC89/?coliid=I8BDAP9U56GWS&colid=28VBMUP4FWW5W&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it,$8.59
+Pack of 3x1 mm magnets,1,,,,,https://www.amazon.com/dp/B0F13KHDZH/?coliid=I3EBXLJ0E8NETL&colid=28VBMUP4FWW5W&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it,$8.99
