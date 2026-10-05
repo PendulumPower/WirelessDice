@@ -1,5 +1,5 @@
 # WirelessDice
-A set of RPG dice with a charging hub that can send the rolls wirelessly. (UNFINISHED)<br>
+A set of RPG dice with a charging hub that can send the rolls wirelessly.<br>
 They are all (mostly) standard size RPG dice, and can tell what they roll based using an accelerometer paired with an nrf chip<br>
 They are capable of charging within a few seconds due to using a supercapacitor<br>
 Here's some pictures of the design<br>
