@@ -13,6 +13,8 @@ PCB Back:
 <img width="1220" height="843" alt="image" src="Images/PCBBack.png" />
 Hub Case:
 <img width="1220" height="843" alt="image" src="Images/Case.png" />
+This one ^ has the pcb sticking out because I don't know how to cut the model apart and it's panelized. Won't 
+be an issue on the physical one. <br>
 Costs: <a href="https://www.amazon.com/hz/wishlist/ls/28VBMUP4FWW5W?ref_=wl_share">Amazon List</a><br>
 -PCB+Stencil - $15<br>
 -Battery+Magnets+Display - $40<br>
