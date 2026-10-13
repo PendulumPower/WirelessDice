@@ -1,24 +1,45 @@
-Reference,Qty,Value,MF Part Number,Exclude from BOM,Exclude from Board,Footprint,Product Link,EXT_Price_USD
-AE1,6,Antenna_Chip,2450AT07A0100001T,,,Capacitor_SMD:C_0402_1005Metric,https://www.digikey.com/en/products/detail/johanson-technology-inc/2450AT07A0100001T/4770686,$3.42
-BT1,1,Battery_Cell,S2B-EH,,,Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal,https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-EH/926533,$0.11
-C3,6,0.22F,CBS5R5224VF-ZJ,,,Partholimew:V_Supercapactior,https://www.digikey.com/en/products/detail/cda-zhifengwei-technology/CBS5R5224VF-ZJ/22461685?s=N4IgTCBcDaIMICEDKBWASisYAsA1AYgLQBaAUiALoC%2BQA,$15.36
-"C4,C6,C8,C11",24,100 nF,C0402C102F1GEC,,,Capacitor_SMD:C_0402_1005Metric,https://www.digikey.com/en/products/detail/kemet/C0402C102F1GEC/8642944,$12.70
-C5,6,1 nF,C0402C102K1GECAUTO,,,Capacitor_SMD:C_0402_1005Metric,https://www.digikey.com/en/products/detail/kemet/C0402C102K1GECAUTO/8563696,$1.20
-C7,6,1.0 µF,CC0402MRX5R6BB105,,,Capacitor_SMD:C_0402_1005Metric,https://www.digikey.com/en/products/detail/yageo/CC0402MRX5R6BB105/5195141,$0.96
-"C9,C10",12,12 pF,CC0402FRNPO9BN120,,,Capacitor_SMD:C_0402_1005Metric,https://www.digikey.com/en/products/detail/yageo/CC0402FRNPO9BN120/5195050,$0.80
-C12,6,0.8 pF,QSCF500Q0R8B1GV001T,,,Capacitor_SMD:C_0402_1005Metric,https://www.digikey.com/en/products/detail/johanson-technology-inc/QSCF500Q0R8B1GV001T/1561519,$1.38
-C13,6,1.2 pF,QSCF500Q1R2B1GV001T,,,Capacitor_SMD:C_0402_1005Metric,https://www.digikey.com.au/en/products/detail/johanson-technology-inc/QSCF500Q1R2B1GV001T/1561523?srsltid=AfmBOorqYBE8jLqeB4xs7zFaSt9l92Y61sGOfWzWt68SB-ECNDt6Fc8a,$1.50
-D1,6,D_Schottky,ZHCS350QTA,,,Diode_SMD:D_SOD-523,https://www.digikey.com/en/products/detail/diodes-incorporated/ZHCS350QTA/16548932,$4.62
-"J2,J4,J5,J6,J8,J9,J10",7,Conn_01x02_Pin,816-22-002-10-005101,,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/816-22-002-10-005101/6149715?gclsrc=aw.ds&gad_source=1&gad_campaignid=20470400566&gbraid=0AAAAADrbLlhnU3m_zEh8W9A1TAocWx6aY&gclid=Cj0KCQjwk5nVBhDiARIsAHNGqacAMn0UIE9_uygN1ia0mNAtSDT1cr3yeQ3GwP7nfWxaonjn3JVUrqQaAqlYEALw_wcB,$18.96
-L1,6,3.9 nH,LRC0402CS3N9GV001T,,,Inductor_SMD:L_0402_1005Metric,https://www.digikey.com/en/products/detail/johanson-technology-inc/LRC0402CS3N9GV001T/1915227,$0.60
-R3,6,100 Ω,RCA0402100RFKEDHP,,,Resistor_SMD:R_0402_1005Metric,https://www.digikey.com/en/products/detail/vishay-dale/RCA0402100RFKEDHP/6561236,$1.20
-"R4,R5",12,4.7 kΩ,RE0402FRE074K7L,,,Resistor_SMD:R_0402_1005Metric,https://www.digikey.com/en/products/detail/yageo/RE0402FRE074K7L/5923067,$0.41
-SW1,1,SW_Push_SPDT,PCM12SMTR,,,Button_Switch_SMD:SW_SPDT_PCM12,https://www.digikey.com/en/products/detail/c-k/PCM12SMTR/1640112,$1.28
-U4,1,XIAO-ESP32-S3-Plus-SMD,113991114,,,Seeed_Studio_XIAO_Series:XIAO-ESP32-S3-Plus-SMD,https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/113991114/19285530,$7.49
-Y1,6,Crystal_GND24,ECS-2016MV-240-BN-TR,,,Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm,https://www.digikey.com/en/products/detail/ecs-inc/ECS-2016MV-240-BN-TR/9385254,$10.26
-U3,6,BMA400,BMA400,,,BMA400,https://www.digikey.com/en/products/detail/bosch-sensortec/BMA400/8634935,$13.22
-U2,6,NRF52832-QFAA-R,NRF52832-QFAA-R,,,NRF52832-QFAA-R,https://www.digikey.com/en/products/detail/nordic-semiconductor-asa/NRF52832-QFAA-R/5428659,$28.86
-3000 mAh Battery,1,,,,,,https://www.amazon.com/dp/B0DTHGXTNT/?coliid=I3AVXAGAYZTM3P&colid=28VBMUP4FWW5W&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it,$12.99
-2-inch LCD,1,,,,,,https://www.amazon.com/dp/B0GL1SWYP4/?coliid=I2KOR03UWRZK4E&colid=28VBMUP4FWW5W&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it,$15.99
-Pack of 3x2 mm magnets,1,,,,,,https://www.amazon.com/dp/B0GY2DLC89/?coliid=I8BDAP9U56GWS&colid=28VBMUP4FWW5W&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it,$8.59
-Pack of 3x1 mm magnets,1,,,,,,https://www.amazon.com/dp/B0F13KHDZH/?coliid=I3EBXLJ0E8NETL&colid=28VBMUP4FWW5W&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it,$8.99
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1","1","1 µF","","","","Capacitor_SMD:C_0805_2012Metric",""
+"C2,C3,C4,C6,C8,C9,C10,C12","8","10 µF","","","","Capacitor_SMD:C_0805_2012Metric",""
+"C5,C7","2","22 µF","","","","Capacitor_SMD:C_0805_2012Metric",""
+"C11,C13","2",".1 µF","","","","Capacitor_SMD:C_0805_2012Metric",""
+"C14","1","0.1 µF","","","","Capacitor_SMD:CP_Elec_6.3x5.4",""
+"C15,C16,C31,C32","4","0.1 µF","","","","Capacitor_SMD:C_0805_2012Metric",""
+"C17","1","2.2 nF","","","","Capacitor_SMD:C_0805_2012Metric",""
+"C18,C27,C28,C29,C30","5","10 µF","","","","Capacitor_SMD:CP_Elec_6.3x5.4",""
+"C19,C20,C21,C22,C23,C24","6","100 nF","","","","Capacitor_SMD:C_0805_2012Metric",""
+"C25","1","10 nF","","","","Capacitor_SMD:C_0805_2012Metric",""
+"D1,D2","2","LED_Small","","","","LED_SMD:LED_0805_2012Metric",""
+"D3,D4","2","D_Schottky","","","","Diode_SMD:D_SOD-123",""
+"FB1,FB2","2","FerriteBead","","","","Inductor_SMD:L_0805_2012Metric",""
+"J1","1","USB_C_Receptacle_USB2.0_16P","","","","Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12","https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+"J2","1","Conn_01x02","","","","Connector_JST:JST_GH_SM02B-GHS-TB_1x02-1MP_P1.25mm_Horizontal",""
+"J3","1","AudioJack2_SwitchT","","","","Connector_Audio:Jack_6.35mm_Neutrik_NMJ4HCD2_Horizontal",""
+"J4","1","AudioJack2","","","","Connector_Audio:Jack_6.35mm_Neutrik_NMJ4HCD2_Horizontal",""
+"J5","1","AudioJack3","","","","Connector_Audio:Jack_3.5mm_CUI_SJ1-3523N_Horizontal",""
+"L1,L2","2","4.7 µH","","","","Inductor_SMD:L_0805_2012Metric",""
+"R1,R2","2","5.1 kΩ","","","","Resistor_SMD:R_0805_2012Metric",""
+"R3","1","1.5 kΩ","","","","Resistor_SMD:R_0805_2012Metric",""
+"R4","1","1.8 kΩ","","","","Resistor_SMD:R_0805_2012Metric",""
+"R5,R8,R11,R21,R22","5","10 kΩ","","","","Resistor_SMD:R_0805_2012Metric",""
+"R6,R7,R14","3","1 kΩ","","","","Resistor_SMD:R_0805_2012Metric",""
+"R9","1","140 kΩ","","","","Resistor_SMD:R_0805_2012Metric",""
+"R10","1","75 kΩ","","","","Resistor_SMD:R_0805_2012Metric",""
+"R12","1","1 MΩ","","","","Resistor_SMD:R_0805_2012Metric",""
+"R13","1","10 MΩ","","","","Resistor_SMD:R_0805_2012Metric",""
+"R15,R16,R19,R20","4","100 kΩ","","","","Resistor_SMD:R_0805_2012Metric",""
+"R17,R18","2","100 Ω","","","","Resistor_SMD:R_0805_2012Metric",""
+"RV1,RV2,RV3,RV4,RV5","5","10 kΩ","","","","Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical",""
+"RV6","1","10 kΩ","","","","Potentiometer_THT:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical",""
+"SW1,SW12","2","SW_SPDT","","","","Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q",""
+"SW2,SW3,SW4,SW5,SW6,SW9","6","SW_SPDT","","","","Button_Switch_THT:SW_PUSH_6mm",""
+"SW7","1","SW_Push","","","","Button_Switch_THT:SW_PUSH_E-Switch_FS5700DP_DPDT",""
+"SW8","1","SW_SPDT_MSM","","","","Button_Switch_SMD:SW_SPDT_PCM12",""
+"SW10","1","SW_Push","","","","Button_Switch_THT:SW_PUSH-12mm_Wuerth-430476085716",""
+"U1","1","BQ24072RGT","","","","Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm","http://www.ti.com/lit/ds/symlink/bq24072.pdf"
+"U2,U3","2","MT3608","","","","Package_TO_SOT_SMD:SOT-23-6","https://www.olimex.com/Products/Breadboarding/BB-PWR-3608/resources/MT3608.pdf"
+"U4","1","MAX1044","","","","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","http://datasheets.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf"
+"U5,U9","2","TL072","","","","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","http://www.ti.com/lit/ds/symlink/tl071.pdf"
+"U6","1","Daisy_Seed","","","","Daisy-Boards:DAISY_SEED","https://static1.squarespace.com/static/58d03fdc1b10e3bf442567b8/t/6227e6236f02fb68d1577146/1646781988478/Daisy_Seed_datasheet_v1.0.3.pdf"
+"U7","1","XIAO-ESP32-S3-SMD","","","","Seeed_Studio_XIAO_Series:XIAO-ESP32-S3-SMD",""
+"U8","1","ER_OLEDM0.91_1x-I2C","","","","Display:ER_OLEDM0.91_1x-I2C","https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf"
