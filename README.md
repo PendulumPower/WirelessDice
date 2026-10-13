@@ -11,6 +11,8 @@ PCB Front:
 <img width="1220" height="843" alt="image" src="Images/PCBFront.png" />
 PCB Back:
 <img width="1220" height="843" alt="image" src="Images/PCBBack.png" />
+PCB Design:
+<img width="1220" height="843" alt="image" src="Images/PCBDesign.png" />
 Hub Case:
 <img width="1220" height="843" alt="image" src="Images/Case.png" />
 This one ^ has the pcb sticking out because I don't know how to cut the model apart and it's panelized. Won't 
